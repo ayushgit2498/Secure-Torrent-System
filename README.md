@@ -49,5 +49,10 @@ tkinter is a python gui library.
     
   2. Downloading the file
   * Just enter the correct file name with extension eg.nature.jpg when you select Download file option.
-  
+      
+      
+  cd
+      sdvsdv
+      dv
+      dfv
 
