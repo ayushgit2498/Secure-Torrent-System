@@ -18,8 +18,8 @@ pip3 install -r requirements.txt
 ```
 
 Install tkinter in your computer or else it will show an error when you select add torrent option.
-tkinter is a python gui library.
-
+Tkinter is a python gui library.
+We have not included this library in requirements.txt.So you will have to separately install it.
 
 3. Start the full nodes on a single laptop
 ```
