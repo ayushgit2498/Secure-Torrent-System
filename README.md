@@ -20,8 +20,9 @@ pip3 install -r requirements.txt
 ```
 ./run.sh
 ```
-4. In order to start the peers 
- 
+4. Copy the directory of Peer on the laptop on which you want to start a peer,also create a virtual environment for the                            
+   peer and follow the below steps
+   
   - First activate the virtual environment
     ```
     source venv/bin/activate
