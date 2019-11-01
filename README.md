@@ -16,6 +16,7 @@ virtualenv -p python3 venv
 ```
 pip3 install -r requirements.txt 
 ```
+
 Install tkinter in your computer or else it will show an error when you select add torrent option.
 tkinter is a python gui library.
 
