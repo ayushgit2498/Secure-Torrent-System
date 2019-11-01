@@ -1,0 +1,7 @@
+peewee
+Flask
+requests
+asyncio
+argparse
+termcolor
+pyAesCrypt
