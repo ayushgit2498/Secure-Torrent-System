@@ -12,7 +12,7 @@ If you want to run our project here are the steps
 ```
 virtualenv -p python3 venv
 ```
-2. Install all the necessary libraries 
+2. Install all the necessary libraries  
 ```
 pip3 install -r requirements.txt 
 ```
