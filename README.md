@@ -16,6 +16,9 @@ virtualenv -p python3 venv
 ```
 pip3 install -r requirements.txt 
 ```
+Install tkinter in your computer or else it will show an error when you select add torrent option.
+tkinter is a python gui library.
+
 3. Start the full nodes on a single laptop
 ```
 ./run.sh
@@ -45,3 +48,5 @@ pip3 install -r requirements.txt
     
   2. Downloading the file
   * Just enter the correct file name with extension eg.nature.jpg when you select Download file option.
+  
+
