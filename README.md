@@ -25,8 +25,8 @@ We have not included this library in requirements.txt.So you will have to separa
 ```
 ./run.sh
 ```
-4. Copy the directory of Peer on the laptop on which you want to start a peer,also create a virtual environment for the                            
-   peer and follow the below steps
+4. Copy the directory of Peer on the laptop on which you want to start a peer,also create a virtual environment
+   for the peer ```virtualenv -p python3 venv``` and follow the below steps
    
   - First activate the virtual environment
     ```
